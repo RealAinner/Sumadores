@@ -5,3 +5,6 @@ build/
 !/alu8/waveform.vcd
 __pycache__/
 *.pyc
+build/
+core_min/surfer.exe
+*.fst
